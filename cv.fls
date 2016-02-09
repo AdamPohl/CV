@@ -15,6 +15,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /home/huaraz2/Documents/Programming/cv/cv.aux
 INPUT /home/huaraz2/Documents/Programming/cv/cv.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
