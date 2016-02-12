@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1455284399 "cv.tex" "/home/huaraz2/Documents/Programming/cv/cv.pdf" "cv" 1455284399
+["pdflatex"] 1455285133 "cv.tex" "/home/huaraz2/Documents/Programming/cv/cv.pdf" "cv" 1455285133
   "/etc/texmf/web2c/texmf.cnf" 1447844771 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/huaraz2/Documents/Programming/cv/cv.aux" 1455277912 8 a94a2480d3289e625eea47cd1b285758 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -8,6 +8,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
@@ -27,10 +28,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1447844793 127715 132155e7ee9993e0b74e204ed9b866dc ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1447844788 725444 838e4345a81e530066a74c753d9635f2 ""
   "cv.aux" 1455277912 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv.tex" 1455284399 7190 d5851494a21aad8526934b26a2dbcee5 ""
+  "cv.tex" 1455285132 7149 87bb195bc4b0c866b47e665364edbd2a ""
   "res.cls" 1455278765 25048 c749eafcb9ded320e7aceb168cfb94aa ""
   (generated)
-  "/home/huaraz2/Documents/Programming/cv/cv.log"
+  "cv.pdf"
   "/home/huaraz2/Documents/Programming/cv/cv.pdf"
   "cv.log"
-  "cv.pdf"
+  "/home/huaraz2/Documents/Programming/cv/cv.log"
