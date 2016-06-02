@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.11.18)  17 MAR 2016 17:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.22)  2 JUN 2016 19:43
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **cv.tex
 (/home/huaraz2/Documents/Programming/cv/cv.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 2 languages loaded.
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
 (/home/huaraz2/Documents/Programming/cv/res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -191,15 +191,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--139
 
 [2] ) 
 Here is how much of TeX's memory you used:
- 845 strings out of 495000
- 11708 string characters out of 6181168
- 72244 words of memory out of 5000000
- 4133 multiletter control sequences out of 15000+600000
+ 845 strings out of 494953
+ 11708 string characters out of 6180977
+ 72501 words of memory out of 5000000
+ 4183 multiletter control sequences out of 15000+600000
  4899 words of font info for 18 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,8n,21p,190b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /home/huaraz2/Documents/Programming/cv/cv.pdf (2 pages, 95054 bytes).
+Output written on /home/huaraz2/Documents/Programming/cv/cv.pdf (2 pages, 95065 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
