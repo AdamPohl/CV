@@ -1,12 +1,12 @@
-PWD /home/huaraz2/Documents/Programming/cv
+PWD /home/huaraz2/Desktop/jobs/cv
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/huaraz2/Documents/Programming/cv/cv.tex
-OUTPUT /home/huaraz2/Documents/Programming/cv/cv.log
-INPUT /home/huaraz2/Documents/Programming/cv/res.cls
-INPUT /home/huaraz2/Documents/Programming/cv/res.cls
+INPUT /home/huaraz2/Desktop/jobs/cv/cv.tex
+OUTPUT /home/huaraz2/Desktop/jobs/cv/cv.log
+INPUT /home/huaraz2/Desktop/jobs/cv/res.cls
+INPUT /home/huaraz2/Desktop/jobs/cv/res.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -15,6 +15,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -23,8 +25,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-INPUT /home/huaraz2/Documents/Programming/cv/cv.aux
-INPUT /home/huaraz2/Documents/Programming/cv/cv.aux
+INPUT /home/huaraz2/Desktop/jobs/cv/cv.aux
+INPUT /home/huaraz2/Desktop/jobs/cv/cv.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -32,7 +34,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-OUTPUT /home/huaraz2/Documents/Programming/cv/cv.pdf
+OUTPUT /home/huaraz2/Desktop/jobs/cv/cv.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
