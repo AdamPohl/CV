@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.3.9)  17 MAR 2017 11:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.3.9)  23 MAR 2017 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -113,15 +113,15 @@ LaTeX Font Info:    ... okay on input line 7.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(0.02864pt, 525.20924pt, 72.26999pt)
-* v-part:(T,H,B)=(14.22636pt, 816.59412pt, 14.22636pt)
+* h-part:(L,W,R)=(0.00304pt, 539.68863pt, 57.81621pt)
+* v-part:(T,H,B)=(8.5359pt, 827.97504pt, 8.5359pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=525.20924pt
-* \textheight=816.59412pt
-* \oddsidemargin=-72.24135pt
-* \evensidemargin=-72.24135pt
-* \topmargin=-58.04362pt
+* \textwidth=539.68863pt
+* \textheight=827.97504pt
+* \oddsidemargin=-72.26695pt
+* \evensidemargin=-72.26695pt
+* \topmargin=-63.73409pt
 * \headheight=0.0pt
 * \headsep=0.0pt
 * \topskip=10.0pt
@@ -146,16 +146,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Missing character: There is no â in font cmbx10!
 Missing character: There is no € in font cmbx10!
 Missing character: There is no ™ in font cmbx10!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (34.03496pt too wide) in paragraph at lines 217--227
+Overfull \hbox (19.55557pt too wide) in paragraph at lines 235--245
 [][] 
  []
 
@@ -163,13 +163,13 @@ Overfull \hbox (34.03496pt too wide) in paragraph at lines 217--227
 Here is how much of TeX's memory you used:
  1426 strings out of 495028
  21256 string characters out of 6181498
- 99048 words of memory out of 5000000
+ 100051 words of memory out of 5000000
  4673 multiletter control sequences out of 15000+600000
  5258 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  35i,10n,23p,235b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (2 pages, 111895 bytes).
+Output written on cv.pdf (2 pages, 114452 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
